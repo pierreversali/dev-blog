@@ -3,7 +3,7 @@
 Yet another DEV blog :)
 
 - Hi, I’m @pierreversali, a belgian 🇧🇪 Software Engineer & Architect
-- I’m interested in Java ☕, Software Development 📝, Software Architecture 🏗️:, Microservices ☢️, Domain Driven Design ⚛️ & Cloud-native Solutions ☁️
+- I’m interested in Java ☕, Software Development 📝, Software Architecture 🏗️, Microservices ☢️, Domain Driven Design ⚛️ & Cloud-native Solutions ☁️
 - I’m currently learning Quarkus & Kotlin 📚
 - I’m looking to collaborate on Open Source projects / libraries 🖖
 
