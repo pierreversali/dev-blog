@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my DEV Blog
 
-You can use the [editor on GitHub](https://github.com/pierreversali/dev-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Yet another DEV blog :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Hi, I’m @pierreversali, a belgian 🇧🇪 Software Engineer & Architect
 
-### Markdown
+* I’m interested in Java ☕, Software Development 🏗️, Software Architecture 🏘️, Microservices ☢️ & Cloud-native Solutions ☁️
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* I’m currently learning Quarkus & Kotlin 📚
 
-```markdown
-Syntax highlighted code block
+* I’m looking to collaborate on Open Source projects / libraries 🖖
 
-# Header 1
-## Header 2
-### Header 3
+* Reach me out 📫 pierre.versali@gmail.com | 🌎 Website
 
-- Bulleted
-- List
+In this, I will share about my passion for quality and efficiency in Software Development practices and my technology watch experiments.
 
-1. Numbered
-2. List
+Hope You'll find interesting and usefull content here.
+Don't hesitate to send your feedback.
+### Articles
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pierreversali/dev-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
