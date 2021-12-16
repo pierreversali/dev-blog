@@ -18,7 +18,7 @@ Don't hesitate to share your feedback.
 
 ### Code sample
 
-{% highlight java %}
+''' java
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
@@ -33,4 +33,4 @@ public class Log4Shell {
         LOGGER.info("Upgrade to log4j 2.16.0");
     }
 }
-{% endhighlight %}
+'''
