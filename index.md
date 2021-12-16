@@ -11,8 +11,8 @@ Yet another DEV blog :)
 
 In this blog, I will share about my passion for quality and efficiency in Software Development practices and my technical watch experiments.
 
-Hope You'll find interesting and usefull content here.
-Don't hesitate to send your feedback.
+Hope you will find interesting and usefull content here.
+Don't hesitate to share your feedback.
 
 ### Articles
 
